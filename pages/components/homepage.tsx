@@ -1,6 +1,6 @@
+import { Box } from '@material-ui/core';
 import * as React from 'react';
 import styles from '../../styles/Home.module.css'
-import { Box } from '../../node_modules/@material-ui/core/index';
 
 
 const HomePage = () => { 
